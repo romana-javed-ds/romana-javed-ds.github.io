@@ -1,39 +1,33 @@
 # Romana Javed | Data Science Portfolio
 
-MS Data Science student at **FAST NUCES Islamabad**, interested in Data Science, Artificial Intelligence, Machine Learning, NLP, and Business Intelligence.
+MS Data Science student at FAST NUCES Islamabad, with interests and practical academic work in data analytics, machine learning, NLP, and research.
 
-## 🌐 Portfolio Website
+## Live Portfolio
 
-**[Visit My Live Portfolio](https://romana-javed-ds.github.io/)**
+[Visit my portfolio website](https://romana-javed-ds.github.io/)
 
-Explore my professional profile, technical skills, academic projects, research, experience, and download my latest CV directly from my website.
+## CV
 
-## 🛠️ Technical Skills
+The **Download My CV** button on the website links to `Romana_Javed_CV.pdf` in this repository.
 
-- **Programming:** Python, SQL, C++
-- **Data Analytics:** Pandas, NumPy, EDA, Power BI, Excel
-- **Machine Learning:** Logistic Regression, Decision Tree, Random Forest, XGBoost
-- **NLP:** Text Preprocessing, TF-IDF
-- **Tools:** Jupyter Notebook, Google Colab
+## Skills
 
-## 📂 Featured Projects
+Python, SQL, C++, Pandas, NumPy, data preprocessing, EDA, machine learning, Power BI, Excel, NLP, TF-IDF, Jupyter Notebook, and Google Colab.
 
-- [Text Mining & Feature Extraction](https://github.com/romana-javed-ds/Text-Mining-and-Feature-Extraction)
-- [Data Preprocessing & EDA](https://github.com/romana-javed-ds/Data-Preprocessing-and-EDA)
-- [NIDS Data Drift Detection — Ongoing Research](https://github.com/romana-javed-ds/NIDS-Data-Drift-Detection)
-- [TF-IDF Text Analysis](https://github.com/romana-javed-ds/TF-IDF-Text-Analysis)
+## Selected Projects
 
-## 🎓 Education
+- [Text Mining & Feature Extraction](https://github.com/romana-javed-ds/Text_Mining_and_Feature_Extraction)
+- [Data Preprocessing & EDA](https://github.com/romana-javed-ds/Data_Preprocessing_and_EDA)
+- [NIDS Data Drift Detection](https://github.com/romana-javed-ds/NIDS_Data_Drift_Detection)
+- [TF-IDF Text Analysis](https://github.com/romana-javed-ds/TF_IDF_Text_Analysis)
 
-- MS Data Science — FAST NUCES Islamabad
-- MCS — Government College University Faisalabad (2024)
+## Contact
 
-## 📫 Contact
+Email: romanagill327@gmail.com  
+GitHub: [romana-javed-ds](https://github.com/romana-javed-ds)
 
-- **Email:** romanagill327@gmail.com
-- **GitHub:** [romana-javed-ds](https://github.com/romana-javed-ds)
-- **Portfolio:** [romana-javed-ds.github.io](https://romana-javed-ds.github.io/)
+## Files
 
----
-
-*Turning data into meaningful insights.*
+- `index.html` — portfolio website
+- `style.css` — website styling
+- `Romana_Javed_CV.pdf` — downloadable CV
