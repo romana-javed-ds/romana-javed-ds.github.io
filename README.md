@@ -1,63 +1,32 @@
 # Romana Javed | Data Science Portfolio
 
-Welcome to my professional portfolio!
+MS Data Science student at **FAST NUCES Islamabad**, interested in Data Science, Artificial Intelligence, Machine Learning, NLP, and Business Intelligence.
 
-I am an **MS Data Science student at FAST NUCES Islamabad** and an MCS graduate, interested in Data Science, Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Analytics.
+## 🌐 Portfolio Website
 
-## 🌐 Live Portfolio Website
+**[Visit My Live Portfolio](https://romana-javed-ds.github.io/)**
 
-**[Visit My Portfolio Website](https://romana-javed-ds.github.io/)**
-
-Explore my education, technical skills, academic projects, research interests, and professional experience.
-
-## 👩‍💻 About Me
-
-I have practical academic experience in Python, data analysis, data preprocessing, SQL, Power BI, and machine learning. I am also conducting academic research on data drift detection in machine-learning-based network intrusion detection systems.
-
-## 🎓 Education
-
-- **MS Data Science** — FAST NUCES, Islamabad
-- **Master of Computer Science (MCS)** — Government College University Faisalabad (GCUF), 2024
+Explore my professional profile, technical skills, academic projects, research, experience, and download my latest CV directly from my website.
 
 ## 🛠️ Technical Skills
 
-- **Programming & Data:** Python, SQL, C++, Pandas, NumPy
-- **Machine Learning & AI:** Logistic Regression, Decision Tree, Random Forest, XGBoost
-- **Analytics:** Power BI, Microsoft Excel, Data Visualization, EDA
-- **NLP:** Text Preprocessing, TF-IDF, Text Mining
-- **Tools:** Jupyter Notebook, Google Colab, ChatGPT, Claude, Google Gemini
+- **Programming:** Python, SQL, C++
+- **Data Analytics:** Pandas, NumPy, EDA, Power BI, Excel
+- **Machine Learning:** Logistic Regression, Decision Tree, Random Forest, XGBoost
+- **NLP:** Text Preprocessing, TF-IDF
+- **Tools:** Jupyter Notebook, Google Colab
 
 ## 📂 Featured Projects
 
-### 1. Text Mining & Feature Extraction
-Text preprocessing, Bag-of-Words, TF-IDF, exploratory visualizations, PCA, and hierarchical clustering.
+- [Text Mining & Feature Extraction](https://github.com/romana-javed-ds/Text-Mining-and-Feature-Extraction)
+- [Data Preprocessing & EDA](https://github.com/romana-javed-ds/Data-Preprocessing-and-EDA)
+- [NIDS Data Drift Detection — Ongoing Research](https://github.com/romana-javed-ds/NIDS-Data-Drift-Detection)
+- [TF-IDF Text Analysis](https://github.com/romana-javed-ds/TF-IDF-Text-Analysis)
 
-### 2. Data Preprocessing & EDA
-Data cleaning, missing-value handling, outlier analysis, feature extraction, and exploratory data analysis.
+## 🎓 Education
 
-### 3. Data Drift Detection in NIDS
-Ongoing academic research exploring feature-level data drift in Machine Learning-Based Network Intrusion Detection Systems.
-
-### 4. TF-IDF Text Analysis
-Practical text analysis and feature extraction using TF-IDF.
-
-## 🔬 Research Interests
-
-- Data Drift Detection
-- Network Intrusion Detection Systems
-- Machine Learning
-- Artificial Intelligence
-- Natural Language Processing
-
-## 💼 Professional Experience
-
-- Processing & Sales Executive — Sunrise Education Consultancy
-- Social Media Marketing & Lead Generation
-- Website Content Support
-
-## 📄 Curriculum Vitae
-
-**[Download My CV](https://romana-javed-ds.github.io/Romana_Javed_CV.pdf)**
+- MS Data Science — FAST NUCES Islamabad
+- MCS — Government College University Faisalabad (2024)
 
 ## 📫 Contact
 
@@ -67,4 +36,4 @@ Practical text analysis and feature extraction using TF-IDF.
 
 ---
 
-*Thank you for visiting my portfolio!*
+*Turning data into meaningful insights.*
