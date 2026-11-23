@@ -1,23 +1,41 @@
-# Romana Javed — Data Science Portfolio
+# Romana Javed | Data Science Portfolio
 
-A responsive personal portfolio website built with HTML and CSS.
+Welcome to my personal portfolio repository!
 
-## Publish with GitHub Pages
+I am pursuing an MS in Data Science at FAST NUCES Islamabad, with interests in Data Science, Machine Learning, Artificial Intelligence, Natural Language Processing, and Data Analytics.
 
-1. Create a new **public** GitHub repository named exactly `romana-javed-ds.github.io`.
-2. Upload `index.html` and `style.css` to the repository root.
-3. Commit the files to the `main` branch.
-4. Open **Settings → Pages** and choose **Deploy from a branch**, branch `main`, folder `/ (root)`, then Save.
-5. Wait for GitHub Pages to publish the site. The expected address is `https://romana-javed-ds.github.io/`.
+## 🌐 Live Portfolio
 
-## Before publishing
+**Visit my website:** https://romana-javed-ds.github.io/
 
-- Verify the education completion year shown in `index.html`.
-- Add a professional email address in the Contact section if you want it public.
-- Add a CV file and a visible download link only after choosing the correct, current CV.
-- Check every repository link and update project descriptions to match the actual work.
+## 👩‍💻 About Me
 
-## Files
+I enjoy working with datasets, exploring patterns, performing data preprocessing, and applying analytical techniques to practical problems.
 
-- `index.html` — website content
-- `style.css` — responsive design and styling
+## 🛠️ Skills & Technologies
+
+- Python
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Machine Learning
+- Natural Language Processing (NLP)
+- TF-IDF and Text Mining
+- Jupyter Notebook
+- Google Colab
+
+## 📂 Featured Projects
+
+- **Text Mining & Feature Extraction** — Text preprocessing, TF-IDF, PCA, and clustering.
+- **Data Preprocessing & EDA** — Data cleaning, encoding, missing-value handling, and exploratory analysis.
+- **TF-IDF Text Analysis** — Text representation and feature extraction.
+- **NIDS Data Drift Detection** — Research project exploring feature-level data drift in network intrusion detection.
+
+## 🎓 Education
+
+- MS Data Science — FAST NUCES, Islamabad
+- Master of Computer Science (MCS)
+
+## 🔗 Connect
+
+- GitHub: https://github.com/romana-javed-ds
+- Portfolio: https://romana-javed-ds.github.io/
