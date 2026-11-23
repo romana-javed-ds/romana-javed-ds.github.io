@@ -2,11 +2,11 @@
 
 MS Data Science student at **FAST NUCES Islamabad**, interested in Data Science, Artificial Intelligence, Machine Learning, NLP, and Business Intelligence.
 
-## 🌐 Portfolio Website
+## 🌐 Live Portfolio
 
-**[Visit My Live Portfolio](https://romana-javed-ds.github.io/)**
+**[Visit My Portfolio Website](https://romana-javed-ds.github.io/)**
 
-Explore my professional profile, technical skills, academic projects, research, experience, and download my latest CV directly from my website.
+Explore my professional profile, technical skills, academic projects, research, experience, and download my latest CV.
 
 ## 🛠️ Technical Skills
 
@@ -26,11 +26,10 @@ Explore my professional profile, technical skills, academic projects, research, 
 ## 🎓 Education
 
 - MS Data Science — FAST NUCES Islamabad
-- MCS — Government College University Faisalabad (2024)
+- MCS — Government College University Faisalabad (2021)
 
-## 📫 Contact
+## 🔗 Connect
 
-- **Email:** romanagill327@gmail.com
 - **GitHub:** [romana-javed-ds](https://github.com/romana-javed-ds)
 - **Portfolio:** [romana-javed-ds.github.io](https://romana-javed-ds.github.io/)
 
